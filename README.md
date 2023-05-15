@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>P1337 Encoder/Decoder</title>
