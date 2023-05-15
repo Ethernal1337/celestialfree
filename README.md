@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>P1337 Encoder/Decoder</title>
+  <title>Pasted emojies Encoder/Decoder</title>
   <style>
     body {
       display: flex;
