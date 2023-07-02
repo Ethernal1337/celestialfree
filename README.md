@@ -1,7 +1,4 @@
-<html>
-<head>
-  <title>Pasted emojies Encoder/Decoder</title>
-  <style>
+
     body {
       display: flex;
       flex-direction: column;
